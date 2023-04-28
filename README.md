@@ -1,2 +1,2 @@
-# Bir-Kelime-Bir--lem
-Java ile
+TRT tarafından yayınlanan zeka ve bilgi tabanlı yarışma programıdır. Yarışmada yarışmacılara bir kelime, bir de işlem sorusu sorulmaktadır. Kelime sorusunda yarışmacılara 8 tane harf verilmekte, yarışmacılar da bu harfleri ve bir de joker harfi kullanarak kelime türetmeye çalışmaktadır.
+İşlem sorusunda ise yarışmacılara 6 tane rakam ile bir hedef sayı verilmektedir. Yarışmacılardan beklenen, verilen 6 rakamı dört işlem ile kullanarak hedef sayıya yaklaşmaya çalışmalarıdır.
